@@ -1,0 +1,23 @@
+{
+  "name": "learn-haskell",
+  "version": "1.0.0",
+  "description": "Exercises for the book [Haskell Programming From First Principles](http://haskellbook.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richdouglasevans/haskell-programming.git"
+  },
+  "keywords": [],
+  "author": "Rich Douglas <rich.douglas.evans@gmail.com> (https://about.me/rich.douglas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richdouglasevans/haskell-programming/issues"
+  },
+  "homepage": "https://github.com/richdouglasevans/haskell-programming#readme",
+  "dependencies": {
+    "daggy": "^1.4.0"
+  }
+}
