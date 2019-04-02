@@ -10,6 +10,9 @@ noEmpty :: String -> Maybe String
 noEmpty "" = Nothing
 noEmpty st = Just st
 
+default' :: String -> Maybe String
+default' = return
+
 noNegative :: Int -> Maybe Int
 noNegative n
     | n >= 0    = Just n
