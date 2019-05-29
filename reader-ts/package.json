@@ -1,0 +1,21 @@
+{
+  "name": "reader-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rich Douglas <rich.douglas.evans@gmail.com> (https://about.me/rich.douglas)",
+  "license": "MIT",
+  "dependencies": {
+    "fp-ts": "^1.18.2",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "@types/mocha": "^5.2.6",
+    "mocha": "^6.1.4",
+    "must": "^0.13.4"
+  }
+}
